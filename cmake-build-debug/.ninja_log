@@ -1,0 +1,10 @@
+# ninja log v5
+1	1847	1689125723442962445	CMakeFiles/lib.dir/src/Canny.cpp.o	1b6cfb2ebfdd41ce
+1788	1793	1689132412114086841	liblib.a	6468ed141c93668e
+1633	1756	1689157747130972864	Canny_edge_detection	baa06c4d6a5c0ad8
+1	1633	1689157747010976823	CMakeFiles/Canny_edge_detection.dir/main.cpp.o	35048a7478b47fe0
+1	1788	1689132412106086560	CMakeFiles/lib.dir/src/util.cpp.o	faf3eabc2e29386e
+1	1699	1689157817388804183	CMakeFiles/Canny_edge_detection.dir/main.cpp.o	35048a7478b47fe0
+1699	1829	1689157817516800494	Canny_edge_detection	baa06c4d6a5c0ad8
+1	1523	1689158228352620539	CMakeFiles/Canny_edge_detection.dir/main.cpp.o	35048a7478b47fe0
+1523	1650	1689158228476618917	Canny_edge_detection	baa06c4d6a5c0ad8
